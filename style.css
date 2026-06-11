@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero {
+  background-image: url("images/office_1.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 450px;
+  display: flex;
+  align-items: center;
+}
+
+.achievement {
+  background: #0db2ee64;
+}
+
+footer {
+  background: #111;
+  color: white;
+}
+
+.social i {
+  font-size: 20px;
+  margin: 0 8px;
+  color: rgb(68, 0, 255);
+}
